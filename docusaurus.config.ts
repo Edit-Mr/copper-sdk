@@ -5,8 +5,7 @@ const config: Config = {
   title: 'Copper App SDK',
   tagline: 'Add embedded apps to Copper',
 
-  url: 'https://docs.copper.com',
-  baseUrl: '/copper-sdk/',
+  url: 'https://copper-sdk.vercel.app/',
 
   // GitHub pages deployment config.
   organizationName: 'ProsperWorks',
