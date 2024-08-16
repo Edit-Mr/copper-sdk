@@ -4,7 +4,7 @@ import type { Config } from '@docusaurus/types';
 const config: Config = {
   title: 'Copper App SDK',
   tagline: 'Add embedded apps to Copper',
-
+  baseUrl: "/",
   url: 'https://copper-sdk.vercel.app/',
 
   // GitHub pages deployment config.
