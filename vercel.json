@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    {"source": "/copper-sdk/", "destination": "https://copper-sdk.vercel.app/"},
+    {"source": "/copper-sdk/:match*", "destination": "https://copper-sdk.vercel.app/:match*"},
+  ]
+}
